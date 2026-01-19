@@ -157,7 +157,7 @@ Above Figure 7 shows the magnitude response of Butterworth low-pass filters of o
 
 
 <center>
-  <img src="images/butterworthFilterOrders.png" style="width: 550px;" alt="Baseline Noise">
+  <img src="images/ButterworthFilterOrders.png" style="width: 550px;" alt="Baseline Noise">
 </center>
 <br>
 <center>
