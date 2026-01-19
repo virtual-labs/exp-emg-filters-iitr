@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A high-pass filter with a cutoff of 10–20 Hz is mainly used in EMG processing to remove:",
+    "answers": {
+      "a": "Power-line interference",
+      "b": "High-frequency electronic noise",
+      "c": "Motion artifacts and baseline drift",
+      "d": "Cross-talk"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Butterworth filters are preferred in EMG processing because they:",
+    "answers": {
+      "a": "Have sharp ripples in the passband",
+      "b": "Provide maximally flat magnitude response",
+      "c": "Eliminate all phase distortion",
+      "d": "Are only FIR filters"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "FIR filters are inherently stable because they:",
+    "answers": {
+      "a": "Use feedback loops",
+      "b": "Depend only on present and past inputs",
+      "c": "Have infinite impulse response",
+      "d": "Always use Butterworth approximation"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Windowing is used in FIR filter design mainly to:",
+    "answers": {
+      "a": "Increase signal amplitude",
+      "b": "Convert analog signals to digital",
+      "c": "Truncate infinite impulse response",
+      "d": "Remove ECG artifacts directly"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which window parameter mainly controls spectral leakage?",
+    "answers": {
+      "a": "Filter cutoff frequency",
+      "b": "Main-lobe width",
+      "c": "Side-lobe level",
+      "d": "Sampling frequency"
+    },
+    "correctAnswer": "c"
+  }
+]
