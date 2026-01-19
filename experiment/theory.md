@@ -107,7 +107,7 @@ A band-pass filter combines the effects of both high-pass and low-pass filters, 
 
 
 <center>
-  <img src="images/Filter_types.png" style="width: 550px;" alt="Baseline Noise">
+  <img src="images/filter_types.png" style="width: 550px;" alt="Baseline Noise">
 </center>
 <br>
 <center>
